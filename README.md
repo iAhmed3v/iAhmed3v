@@ -58,3 +58,15 @@
 <a href = "https://twitter.com/iAhmed3v"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
+
+<br/>
+<br/>
+
+## ❤ Views and Followers
+
+
+![](https://komarev.com/ghpvc/?username=iAhmed3v)
+
+
+<a href="https://github.com/iAhmed3v?tab=followers"><img src="https://img.shields.io/github/followers/iAhmed3v?label=Followers&style=social" alt="GitHub Badge"></a>
+

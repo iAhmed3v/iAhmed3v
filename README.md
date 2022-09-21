@@ -35,15 +35,24 @@
 ## 📊 My Github Stats
 
 
-<p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iAhmed3v&show_icons=true&locale=en" alt="iAhmed3v" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iAhmed3v&show_icons=true&count_private=true&theme=tokyonight&locale=en" alt="iAhmed3v" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAhmed3v)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iAhmed3v&theme=tokyonight" />
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAhmed3v)](https://git.io/streak-stats)
+<br/>
+<br/>
 
-</p>   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAhmed3v&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
+
+<br/>
+  
 
 
 <br/>

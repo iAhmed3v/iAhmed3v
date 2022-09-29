@@ -6,7 +6,7 @@
 
 ## 🙋‍ About Me
 
-- 🔭 I’m currently working on [Mars-Photos](https://github.com/iAhmed3v/Mars-Photos)
+- 🔭 I’m currently working on [InventoryApp](https://github.com/iAhmed3v/InventoryApp)
 - 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
 - 📫 How to reach me: **devahmdali@gmail.com**
 - 👯 I’m looking to collaborate on **OpenSources Projects**
